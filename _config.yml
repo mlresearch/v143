@@ -1,0 +1,95 @@
+---
+booktitle: Proceedings of the Fourth Conference on Medical Imaging with Deep Learning
+shortname: MIDL
+conference_number: '4'
+year: '2021'
+start: 2021-07-07
+end: 2021-07-09
+published: 2021-08-25
+publisher: PMLR
+series: Proceedings of Machine Learning Research
+volume: '143'
+layout: proceedings
+issn: 2640-3498
+id: MIDL2021
+month: 0
+cycles: false
+bibtex_editor: Heinrich, Mattias and Dou, Qi and de Bruijne, Marleen and Lellmann,
+  Jan and Schl{\"a}fer, Alexander and Ernst, Floris
+editor:
+- given: Mattias
+  family: Heinrich
+- given: Qi
+  family: Dou
+- given: Marleen
+  family: Bruijne
+  prefix: de
+- given: Jan
+  family: Lellmann
+- given: Alexander
+  family: Schläfer
+- given: Floris
+  family: Ernst
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the Fourth Conference on Medical Imaging with Deep Learning
+    Held in L{\"u}beck, Germany on 07-09 July 2021
+
+  Published as Volume 143 by the Proceedings of Machine Learning Research on 25 August 2021.
+
+  Volume Edited by:
+    Mattias Heinrich
+    Qi Dou
+    Marleen de Bruijne
+    Jan Lellmann
+    Alexander Schläfer
+    Floris Ernst
+
+  Series Editors:
+    Neil D. Lawrence
+    * Mark Reid
+date_str: 07--09 Jul
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v143"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v143
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v143
+email: ''
+conference:
+  name: Medical Imaging with Deep Learning
+  url: https://2021.midl.io
+  location: Lübeck, Germany
+  dates:
+  - 2021-07-07
+  - 2021-07-08
+  - 2021-07-09
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v143/MIDL2021_bib_abstract.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v143/MIDL2021_bib_abstract.bib
